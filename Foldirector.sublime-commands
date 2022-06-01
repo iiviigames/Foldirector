@@ -1,0 +1,4 @@
+[
+    { "caption": "Foldirector Show", "command": "explore"}
+    // { "caption": "Foldirector Show", "command": "foldirector_show", "args": "view" }
+]

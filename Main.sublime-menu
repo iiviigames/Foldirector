@@ -1,0 +1,12 @@
+[
+	{
+		"caption":	"Foldirector",
+		"mnemonic":	"F",
+		"id":	"foldirector",
+		"children": [
+			{"command": "explore", "caption": "Show", "mnemonic":	"S"},
+			// {"command": "example", "caption": "Example ", "mnemonic":	"E"}
+		]
+
+	}
+]
